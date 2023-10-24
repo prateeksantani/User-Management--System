@@ -257,4 +257,4 @@ The User Management project serves as a practical example of Spring Boot applica
 
 <!-- Contact -->
 ## Contact
-For feedback, please contact [Prateek Santani](mailto:prateeksantani98@gmail.com @gmail.com).
+For feedback, please contact [Prateek Santani](mailto:prateeksantani98@gmail.com ).
