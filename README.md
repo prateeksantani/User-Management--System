@@ -1,23 +1,7 @@
 # <h1 align = "center"> User Management System </h1>
 #<h2 align = "center"> Created By : Prateek Santani </h2>
-___ 
-<p align="center">
-<a href="Java url">
-    <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
-</a>
-<a href="Maven url" >
-    <img alt="Maven" src="https://img.shields.io/badge/maven-4.0-brightgreen.svg" />
-</a>
-<a href="Spring Boot url" >
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.1.1-brightgreen.svg" />
-</a>
-    <a href="License url" >
-    <img alt = "GPL v3" src="https://img.shields.io/badge/License-GPLv3-blue.svg" />
-    </a>
-</p>
 
 
----
 
 <p align="left">
 
@@ -269,14 +253,8 @@ The database design includes tables for user management, featuring fields like `
 
 The User Management project serves as a practical example of Spring Boot application development, demonstrating best practices in API design and user data management. It offers a solid foundation for building and extending user management systems in various applications.
 
-<!-- License -->
-## License
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
-<!-- Acknowledgments -->
-## Acknowledgments
-Thank you to the Spring Boot and Java communities for providing excellent tools and resources.
 
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact [Prateek Santani](mailto:business.amitswain@gmail.com).
+For feedback, please contact [Prateek Santani](mailto:prateeksantani98@gmail.com @gmail.com).
